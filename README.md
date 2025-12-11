@@ -5,4 +5,6 @@ Included in this repository is a Python script for a UNet (credit goes to Maxime
 
 Here is the link to the data used: https://www.kaggle.com/datasets/superpotato9/dalle-recognition-dataset
 
+To use these files, upload the zipped data to your Drive, upload the unet file to your working Colab session, and run the notebook from there.
+
 The purpose of this project is to explore which features emerge from a diffusion model that is trained on AI-generated images.
